@@ -1,0 +1,16 @@
+.DS_Store
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+Servers/
+data-service-logs/
+mongodb/
+web-app-logs/
+.project
+.settings
+.classpath
+target/
+bin/
+.springBeans
+.tern-project
+*.log
